@@ -9,14 +9,17 @@
 
 # English (default)
 # -----------------
+
+  #여기서 네비게이션 바 순서 정하면 됨.
 en: &DEFAULT_EN
   nav:
+    - title: "About"
+      section: timeline
     - title: "Services"
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "About"
-      section: timeline
+
     - title: "Team"
       section: team
     - title: "Contact"

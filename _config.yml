@@ -11,12 +11,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-agency
+theme: 
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : 안박사의 New Dior Bag Get을 축하합니다!
+title      : 코딩예찬 Coding World!
 email      : firecare@naver.com #this is also the email contact forms will go to
 description: "Site description"
 author     : yechanlee
@@ -29,11 +29,11 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
   google: #Google Analytics tracking code here
 
-collections:
+collections: 
   portfolio:
 
 markdown: kramdown
-
+encoding: utf-8
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+# formspree_form_path: "f/a_form_id" 
