@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: 안박사의 470만원 짜리 NEW Dior Bag 구입을 축하드립니다.
+    title: 코딩예찬의 코딩세상!
+    text: 코딩예찬
     button: Tell Me More
     buttonlink: "#services"
 
@@ -46,8 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "ChungNam National University"
         year: "2013-2017"
-        desc: "충남대학교 컴퓨터공학과(현 컴퓨터융합학부) 졸. 
-        dd" 
+        desc: "충남대학교 컴퓨터공학과(현 컴퓨터융합학부)" 
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
