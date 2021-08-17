@@ -30,10 +30,10 @@ en: &DEFAULT_EN
         alt:
       - title: "000특공여단 통신장교"
         year: "2017.03-2019.06"
-        desc: "네트워크/유·무선 인프라/보안솔루션/통신장비/통역장교"
+        desc: "네트워크  유·무선 인프라  보안솔루션  통신장비  통역장교"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "롯데정보통신(Lotte Data Communications Company)"
+      - title: "롯데정보통신(LDCC)"
         year: "2019.07 ~ 재직중"
         desc: "그룹웨어/SAP/네트워크/인사시스템/POS/전자결재/라이선스/보안솔루션  JAVA/Spring/Python/C++/MSSQL/MySQL"
         image: assets/img/timeline/3.jpg
