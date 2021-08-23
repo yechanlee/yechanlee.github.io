@@ -25,17 +25,17 @@ en: &DEFAULT_EN
     events:
       - title: "ChungNam National University"
         year: "2013-2017"
-        desc: "충남대학교 컴퓨터공학과(현 컴퓨터융합학부)" 
+        desc: "-충남대학교 컴퓨터공학과(졸)" 
         image: assets/img/timeline/1.jpg
         alt:
       - title: "특공여단 통신장교"
         year: "2017.03-2019.06"
-        desc: "네트워크 유·무선 인프라  보안솔루션  통신장비  통역장교"
+        desc: "-네트워크 유·무선 인프라  <br> -보안솔루션  통신장비  통역장교"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "롯데정보통신(LDCC)"
         year: "2019.07 ~ 재직중"
-        desc: "그룹웨어/SAP/네트워크/인사시스템/POS/전자결재/라이선스/보안솔루션 <br> <br>  JAVA/Spring/Python/C++/MSSQL/MySQL"
+        desc: "-그룹웨어/SAP/네트워크/인사시스템/POS/전자결재/라이선스/보안솔루션 <br> <br>  -JAVA/Spring/Python/C++/MSSQL/MySQL"
         image: assets/img/timeline/3.jpg
         alt: image alt text
      

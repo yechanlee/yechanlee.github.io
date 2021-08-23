@@ -16,7 +16,7 @@ theme:
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : 코딩예찬 Coding World!
+title      : Tech Blog - YeChan Lee KR®
 email      : firecare@naver.com #this is also the email contact forms will go to
 description: "Site description"
 author     : yechanlee
