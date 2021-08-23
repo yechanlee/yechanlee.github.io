@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#timeline"
 
   timeline:
-    title: "약력 소개"
+    title: "Timeline"
     text: "Yechan Lee's timeline"
     section: timeline
     # left is the default
@@ -28,14 +28,14 @@ en: &DEFAULT_EN
         desc: "충남대학교 컴퓨터공학과(현 컴퓨터융합학부)" 
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "000특공여단 통신장교"
+      - title: "특공여단 통신장교"
         year: "2017.03-2019.06"
         desc: "네트워크 유·무선 인프라  보안솔루션  통신장비  통역장교"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "롯데정보통신(LDCC)"
         year: "2019.07 ~ 재직중"
-        desc: "그룹웨어/SAP/네트워크/인사시스템/POS/전자결재/라이선스/보안솔루션  JAVA/Spring/Python/C++/MSSQL/MySQL"
+        desc: "그룹웨어/SAP/네트워크/인사시스템/POS/전자결재/라이선스/보안솔루션 <br> <br>  JAVA/Spring/Python/C++/MSSQL/MySQL"
         image: assets/img/timeline/3.jpg
         alt: image alt text
      
@@ -44,19 +44,20 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "기술 스택"
+    text: "Languages & Frameworks"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Java"
+        desc: "Newiz의 인생극장돈을 안 번다돈을 번다 <br><br>   **스팀달러를 산다**불안,초조 가즈앗! "
+        icon: fab fa-java #find more at https://fontawesome.com/icons
+      - title: "Python"
+        desc: "백준&프로그래머스 알고리즘 풀이, 엑셀 파일 입출력 프로그램 개발 등"
+        icon: fab fa-python
+      #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Database"
+        desc: "MSSQL, MYSQL, MongoDB, MariaDB 등"
+        icon: fas fa-database
 
   portfolio:
     title: "Portfolio"
