@@ -49,14 +49,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Java"
-        desc: "Newiz의 인생극장돈을 안 번다돈을 번다 <br><br>   **스팀달러를 산다**불안,초조 가즈앗! "
+        desc: "-Java 6.0  <br> -Java 8.0  <br>"
         icon: fab fa-java #find more at https://fontawesome.com/icons
       - title: "Python"
-        desc: "백준&프로그래머스 알고리즘 풀이, 엑셀 파일 입출력 프로그램 개발 등"
+        desc: "알고리즘 풀이, 엑셀 파일 입출력 프로그램 개발, 파이썬 언어 블로그 정리 등"
         icon: fab fa-python
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       - title: "Database"
-        desc: "MSSQL, MYSQL, MongoDB, MariaDB 등"
+        desc: "-MSSQL <br>-MYSQL <br>-MongoDB"
         icon: fas fa-database
 
   portfolio:
