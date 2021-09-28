@@ -15,5 +15,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "jekyll-include-cache"
   
-  gem 'nokogiri', '~> 1.10.0'
+  gem 'nokogiri', '~> 1.12.5'
 end
