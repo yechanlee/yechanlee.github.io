@@ -14,6 +14,10 @@ group :jekyll_plugins do
   
   gem "jekyll-algolia"
   gem "jekyll-include-cache"
-  
-  gem 'nokogiri', '~> 1.10.0'
+
+  gem 'nokogiri'
+    gem 'guard'
+    gem 'guard-livereload'
+    gem "webrick", "~> 1.7"
+
 end

@@ -1,0 +1,5 @@
+실행하려면
+ bundle exec jekyll serve --livereload
+
+를해준다.
+

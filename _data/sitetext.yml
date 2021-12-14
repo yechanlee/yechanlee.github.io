@@ -16,6 +16,8 @@ en: &DEFAULT_EN
     button: 알아보기
     buttonlink: "#timeline"
 
+
+
   timeline:
     title: "Timeline"
     text: "Yechan Lee's timeline"
@@ -36,7 +38,7 @@ en: &DEFAULT_EN
       - title: "롯데정보통신(LDCC)"
         year: "2019.07 ~ 재직중"
         desc: "-그룹웨어/SAP/네트워크/인사시스템/POS/전자결재/라이선스/보안솔루션 <br> <br>  -JAVA/Spring/Python/C++/MSSQL/MySQL"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/ldcc.jpg
         alt: image alt text
      
         # you can enforce the alignment
