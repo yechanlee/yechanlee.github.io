@@ -19,13 +19,11 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "About3"
-      section: assets/pages/
     - title: "Team"
       section: team
     - title: "Contact"
       section: contact
-    - title: "Tistory"
+    - title: "기술블로그"
       url: https://yellongs.tistory.com/
 en-US:
   <<: *DEFAULT_EN

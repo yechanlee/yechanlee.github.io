@@ -27,23 +27,24 @@ en: &DEFAULT_EN
     events:
       - title: "ChungNam National University"
         year: "2013-2017"
-        desc: "-충남대학교 컴퓨터공학과(졸)" 
+        desc: "-충남대학교 컴퓨터공학과(졸) <br> -6학기 장학금 수혜 <br> -교내 알고리즘 경연대회 1위(대상,2015) <br> -웹 프로그래밍 튜터(2016) "
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "특공여단 통신장교"
+        align: right
+      - title: "특공00부대 통신장교"
         year: "2017.03-2019.06"
-        desc: "-네트워크 유·무선 인프라  <br> -보안솔루션  통신장비  통역장교"
+        desc: "-네트워크 유·무선 인프라 운영 <br> -보안솔루션(NAC,DRM 등) <br> -통역장교 임무수행(3개월,2018~2019)"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "롯데정보통신(LDCC)"
         year: "2019.07 ~ 재직중"
-        desc: "-그룹웨어/SAP/네트워크/인사시스템/POS/전자결재/라이선스/보안솔루션 <br> <br>  -JAVA/Spring/Python/C++/MSSQL/MySQL"
+        desc: "-그룹웨어 <br> -SAP(SD,MM,BC) <br> -인사시스템 <br> -POS 시스템 <br> -전자결재 시스템 <br> -보안솔루션(NAC,DRM,DLP,SEP,TCO,웹방화벽) <br> -인프라 운영 및 보안 "
         image: assets/img/timeline/ldcc.jpg
         alt: image alt text
      
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part of <br>  My Next <br> Journey!"
 
   services:
     title: "기술 스택"
@@ -51,10 +52,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Java"
-        desc: "-Java 6.0  <br> -Java 8.0  <br>"
+        desc: "Spring Boot, JPA"
         icon: fab fa-java #find more at https://fontawesome.com/icons
       - title: "Python"
-        desc: "알고리즘 풀이, 엑셀 파일 입출력 프로그램 개발, 파이썬 언어 블로그 정리 등"
+        desc: "알고리즘 풀이, 파이썬 언어 블로그 정리 등"
         icon: fab fa-python
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       - title: "Database"
@@ -105,7 +106,20 @@ en: &DEFAULT_EN
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+            icon: fab fa-linkedin-
+
+      - name: "Heok Se Li"
+        role: "The Water Man"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-
+
+
 
 
   contact:
