@@ -52,15 +52,19 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Java"
-        desc: "Spring Boot, JPA"
+        desc: "-Spring Boot <br>-Spring JPA <br>-JAVA 알고리즘"
         icon: fab fa-java #find more at https://fontawesome.com/icons
       - title: "Python"
-        desc: "알고리즘 풀이, 파이썬 언어 블로그 정리 등"
+        desc: "-알고리즘 <br>-엑셀파싱 라이브러리 활용"
         icon: fab fa-python
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       - title: "Database"
         desc: "-MSSQL <br>-MYSQL <br>-MongoDB"
         icon: fas fa-database
+      - title: "Infra Architecture"
+        desc: "-AWS Architect <br>-On-Premise"
+        icon: fas fa-network-wired
+
 
   portfolio:
     title: "Portfolio"
@@ -109,7 +113,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-
 
       - name: "Heok Se Li"
-        role: "The Water Man"
+        role: "The Aqua Man"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
