@@ -27,12 +27,12 @@ en: &DEFAULT_EN
     events:
       - title: "ChungNam National University"
         year: "2013-2017"
-        desc: "-충남대학교 컴퓨터공학과(졸) <br> -6학기 장학금 수혜 <br> -교내 알고리즘 경연대회 1위(대상,2015) <br> -확률 및 통계 학부생튜터(2015)<br> -웹 프로그래밍 학부생튜터(2016) <br> -컴퓨터 프로그래밍1 학부생튜터<br>(2016, 삼성전자 SCSC전용교과목)
+        desc: "-충남대학교 컴퓨터공학과(졸) <br> -6개 학기 장학생 <br> -교내 알고리즘 경연대회 1위(대상,2015) <br> -확률 및 통계 학부생튜터(2015)<br> -웹 프로그래밍 학부생튜터(2016) <br> -컴퓨터 프로그래밍1 학부생튜터<br>(2016, 삼성전자 SCSC전용교과목)
          <br> -대한전자공학회 우수발표논문상(2016)"
         image: assets/img/CNU1.jpg
         alt:
         align: right
-      - title: "특공00부대 통신장교"
+      - title: "특공여단 통신장교"
         year: "2017.03-2019.06"
         desc: "-네트워크 유·무선 인프라 운영 <br> -보안솔루션(NAC,DRM 등) <br> -통역장교 임무수행(3개월,2018~2019)"
         image: assets/img/태극기.png
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "업무 경험 및 자격증 목록 <br> 정보처리기사 : SQLD : 네트워크관리사(2급) : OPIC-AL"
+    text: "업무 경험 및 자격증 목록 <br> 정보처리기사 : SQLD : 네트워크관리사(2급) : OPIC-AL : AWS Developers Associate"
     section: portfolio
     closebutton: "Close Project"
 
